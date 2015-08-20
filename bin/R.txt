@@ -1,0 +1,17 @@
+int attr loadingText 0x7f010000
+int color circle 0x7f040001
+int color rect 0x7f040002
+int color shadow 0x7f040004
+int color triangle 0x7f040000
+int color view_bg 0x7f040003
+int drawable ic_launcher 0x7f020000
+int drawable shadow 0x7f020001
+int id indication 0x7f070000
+int id promptTV 0x7f070001
+int id shapeLoadingView 0x7f070002
+int layout load_view 0x7f030000
+int string app_name 0x7f050000
+int style AppBaseTheme 0x7f060000
+int style AppTheme 0x7f060001
+int[] styleable LoadingView { 0x7f010000 }
+int styleable LoadingView_loadingText 0
